@@ -1,3 +1,9 @@
 ## FARMBOT
 
-[https://farmbot-ros.github.io/docs/](https://farmbot-ros.github.io/docs/)
+<p align="center">
+  <img src="farmbot.png" alt="FarmBot" width="200"/>
+</p>
+
+<p align="center">
+  <a href="https://farmbot-ros.github.io/docs/">https://farmbot-ros.github.io/docs/</a>
+</p>
