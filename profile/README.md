@@ -5,5 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://farmbot-ros.github.io/docs/">https://farmbot-ros.github.io/docs/</a>
+  <a href="https://farmbot-ros.github.io/scrollsmith/">DOCS</a>
+  
 </p>
